@@ -1,0 +1,13 @@
+Version: v1.5.2.7
+Traduit par: Nash44
+
+PREREQUIS PREREQUIS AVANT INSTALLATION:
+
+Compulite: https://www.bejoijo.com/post/compulite
+
+
+INSTALLATION:
+
+Remplacez tout les éléments présents dans le dossier: plugins/LSPDFR/CompuLite après avoir installer le plugin (Charges.xml, Citations.xml et Localization.ini)
+
+Besoin d'aide: nash44 (Discord)

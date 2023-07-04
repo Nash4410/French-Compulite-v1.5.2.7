@@ -1,0 +1,103 @@
+<!--
+    Acceptable attributes for each "Citation" tag:
+      - "name" is the citation name or title
+      - "fine" is the amount of fine money
+-->
+
+<CompuLiteCitations>
+	<CitationGroup name="Public Violations">
+		<Citation name="Animal Cruelty" fine="300"/>
+		<Citation name="Disorderly Conduct" fine="800"/>
+		<Citation name="Graffiti" fine="1000"/>
+		<Citation name="Illegal Camping" fine="1000"/>
+		<Citation name="Illegal Protesting" fine="1000"/>
+		<Citation name="Indecent Exposure" fine="1000"/>
+		<Citation name="Jaywalking" fine="500"/>
+		<Citation name="Littering" fine="1000"/>
+		<Citation name="Loitering" fine="100"/>
+		<Citation name="Mischief" fine="3500"/>
+		<Citation name="Public Intoxication" fine="1000"/>
+		<Citation name="Public Urination" fine="1000"/>
+		<Citation name="Reckless Endangerment" fine="300"/>
+		<Citation name="Smoking Violation" fine="150"/>
+		<Citation name="Trespassing" fine="1000"/>
+	</CitationGroup>
+	<CitationGroup name="Vehicle Speeding">
+		<Citation name="Speeding Under 15" fine="215"/>
+		<Citation name="Speeding Between 16-25 Over" fine="360"/>
+		<Citation name="Speeding Over 26" fine="480"/>
+		<Citation name="Speeding 100+" fine="1000"/>
+	</CitationGroup>
+	<CitationGroup name="Vehicle Operation">
+		<Citation name="At Fault in an Accident" fine="300"/>	
+		<Citation name="Careless Driving" fine="200"/>
+		<Citation name="Crossing a Center Divider" fine="150"/>
+		<Citation name="Driving While License Suspended" fine="800"/>
+		<Citation name="Driving While License Revoked" fine="1000"/>
+		<Citation name="Driving Under the Influence" fine="1500"/>
+		<Citation name="Driving Wrong Way" fine="500"/>
+		<Citation name="Failure to Signal" fine="300"/>
+		<Citation name="Failure to Yield" fine="300"/>
+		<Citation name="Failure to Stop" fine="300"/>
+		<Citation name="Following too Closely" fine="300"/>
+		<Citation name="Improper Lane Change" fine="100"/>
+		<Citation name="Improper Passing" fine="150"/>
+		<Citation name="Improper Turn" fine="250"/>
+		<Citation name="Operating a Bicycle on a Highway" fine="300"/>
+		<Citation name="Open Container" fine="400"/>
+		<Citation name="Reckless Driving" fine="1000" arrestable="true"/>
+		<Citation name="Riding Bike without Helmet" fine="180"/>
+		<Citation name="Running a Red Light" fine="500"/>       
+		<Citation name="Seat Belt Violation" fine="180"/>
+		<Citation name="Texting While Driving" fine="1000"/>
+		<Citation name="Using Phone While Driving" fine="1000"/>
+		<Citation name="Violation of Right of Way" fine="150"/>
+	</CitationGroup>
+	<CitationGroup name="Vehicle Equipment">
+		<Citation name="Broken Engine" fine="250"/>
+		<Citation name="Broken Headlight" fine="250"/>
+		<Citation name="Broken Tail Light" fine="250"/>
+		<Citation name="Broken Windshield" fine="500"/>
+		<Citation name="Broken Windows" fine="250"/>
+		<Citation name="Failure to Display License Plates" fine="300"/>
+		<Citation name="Failure to Display Parking Permit" fine="275"/>
+		<Citation name="Failure to Secure a Load" fine="175"/>
+		<Citation name="Illegal Window Tint" fine="180"/>        
+		<Citation name="Lighting Violation" fine="100"/>
+		<Citation name="Neon / Underglow Lighting" fine="450"/>
+		<Citation name="Seat Belt Violation" fine="350"/>
+		<Citation name="Unroadworthy Vehicle" fine="1000"/>		
+	</CitationGroup>
+	<CitationGroup name="Document Related">
+		<Citation name="Driving without License" fine="1000"/>
+		<Citation name="Driving without Registration" fine="500"/>
+		<Citation name="Driving without Insurance" fine="1800"/>
+		<Citation name="Expired Vehicle Insurance" fine="250"/>
+		<Citation name="Expired Vehicle Registration" fine="250"/>
+		<Citation name="Expired Drivers License" fine="200"/>
+		<Citation name="Expired Drivers License (>30 days)" fine="300"/>
+		<Citation name="Expired Vehicle Tag" fine="250"/>
+		<Citation name="Failure to Present Insurance" fine="880"/>		
+		<Citation name="Failure to Present Registration" fine="255"/>
+		<Citation name="Failure to Present Lighting Permit" fine="100"/>
+		<Citation name="Fishing Without License" fine="200"/>
+		<Citation name="Fishing With Expired License" fine="100"/>
+		<Citation name="Hunting Without License" fine="200"/>
+		<Citation name="Hunting With Expired License" fine="100"/>
+	</CitationGroup>
+	<CitationGroup name="Parking Violations">
+		<Citation name="Blocking Access To Disabled Spot" fine="495"/>
+		<Citation name="Double-Parking" fine="85"/>
+		<Citation name="Parked in Opposite Direction" fine="85"/>
+		<Citation name="Parked on Disabled Spot" fine="495"/>
+		<Citation name="Parking in loading Zone" fine="550"/>
+		<Citation name="Parking in front of Fire Hydrants" fine="150"/>
+		<Citation name="Parking Blocking Excavation" fine="100"/>
+		<Citation name="Parking Blocking a Driveway" fine="100"/>
+		<Citation name="Parking Near Sidewalk Access Ramp" fine="495"/>
+		<Citation name="Parking on No-Parking Zone" fine="750"/>
+		<Citation name="Parking on or Blocking Crosswalk" fine="100"/>
+		<Citation name="Parking Posted Fire Lane" fine="150"/>
+		<Citation name="Parking on Sidewalk" fine="90"/>
+	</CitationGroup>
+</CompuLiteCitations>
