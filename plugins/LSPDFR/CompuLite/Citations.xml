@@ -5,99 +5,99 @@
 -->
 
 <CompuLiteCitations>
-	<CitationGroup name="Public Violations">
-		<Citation name="Animal Cruelty" fine="300"/>
-		<Citation name="Disorderly Conduct" fine="800"/>
+	<CitationGroup name="Infractions Publiques">
+		<Citation name="Cruauté envers les animaux" fine="300"/>
+		<Citation name="Comportement désordonné" fine="800"/>
 		<Citation name="Graffiti" fine="1000"/>
-		<Citation name="Illegal Camping" fine="1000"/>
-		<Citation name="Illegal Protesting" fine="1000"/>
-		<Citation name="Indecent Exposure" fine="1000"/>
-		<Citation name="Jaywalking" fine="500"/>
-		<Citation name="Littering" fine="1000"/>
-		<Citation name="Loitering" fine="100"/>
-		<Citation name="Mischief" fine="3500"/>
-		<Citation name="Public Intoxication" fine="1000"/>
-		<Citation name="Public Urination" fine="1000"/>
-		<Citation name="Reckless Endangerment" fine="300"/>
-		<Citation name="Smoking Violation" fine="150"/>
-		<Citation name="Trespassing" fine="1000"/>
+		<Citation name="Camping illégal" fine="1000"/>
+		<Citation name="Manifestation illégale" fine="1000"/>
+		<Citation name="Exhibitionnisme" fine="1000"/>
+		<Citation name="Traversée non autorisée" fine="500"/>
+		<Citation name="Jet de déchets" fine="1000"/>
+		<Citation name="Rôder" fine="100"/>
+		<Citation name="Dommages" fine="3500"/>
+		<Citation name="Ivresse publique" fine="1000"/>
+		<Citation name="Uriner en public" fine="1000"/>
+		<Citation name="Mise en danger imprudente" fine="300"/>
+		<Citation name="Violation des règles de tabagisme" fine="150"/>
+		<Citation name="Violation de propriété" fine="1000"/>
 	</CitationGroup>
-	<CitationGroup name="Vehicle Speeding">
-		<Citation name="Speeding Under 15" fine="215"/>
-		<Citation name="Speeding Between 16-25 Over" fine="360"/>
-		<Citation name="Speeding Over 26" fine="480"/>
-		<Citation name="Speeding 100+" fine="1000"/>
+	<CitationGroup name="Excès de vitesse">
+		<Citation name="Excès de vitesse de moins de 15 km/h" fine="215"/>
+		<Citation name="Excès de vitesse entre 16 et 25 km/h" fine="360"/>
+		<Citation name="Excès de vitesse de plus de 26 km/h" fine="480"/>
+		<Citation name="Excès de vitesse de 100 km/h ou plus" fine="1000"/>
 	</CitationGroup>
-	<CitationGroup name="Vehicle Operation">
-		<Citation name="At Fault in an Accident" fine="300"/>	
-		<Citation name="Careless Driving" fine="200"/>
-		<Citation name="Crossing a Center Divider" fine="150"/>
-		<Citation name="Driving While License Suspended" fine="800"/>
-		<Citation name="Driving While License Revoked" fine="1000"/>
-		<Citation name="Driving Under the Influence" fine="1500"/>
-		<Citation name="Driving Wrong Way" fine="500"/>
-		<Citation name="Failure to Signal" fine="300"/>
-		<Citation name="Failure to Yield" fine="300"/>
-		<Citation name="Failure to Stop" fine="300"/>
-		<Citation name="Following too Closely" fine="300"/>
-		<Citation name="Improper Lane Change" fine="100"/>
-		<Citation name="Improper Passing" fine="150"/>
-		<Citation name="Improper Turn" fine="250"/>
-		<Citation name="Operating a Bicycle on a Highway" fine="300"/>
-		<Citation name="Open Container" fine="400"/>
-		<Citation name="Reckless Driving" fine="1000" arrestable="true"/>
-		<Citation name="Riding Bike without Helmet" fine="180"/>
-		<Citation name="Running a Red Light" fine="500"/>       
-		<Citation name="Seat Belt Violation" fine="180"/>
-		<Citation name="Texting While Driving" fine="1000"/>
-		<Citation name="Using Phone While Driving" fine="1000"/>
-		<Citation name="Violation of Right of Way" fine="150"/>
+	<CitationGroup name="Conduite de véhicule">
+		<Citation name="Responsabilité dans un accident" fine="300"/>	
+		<Citation name="Conduite négligente" fine="200"/>
+		<Citation name="Franchissement d'une ligne médiane" fine="150"/>
+		<Citation name="Conduite avec permis suspendu" fine="800"/>
+		<Citation name="Conduite avec permis révoqué" fine="1000"/>
+		<Citation name="Conduite en état d'ivresse" fine="1500"/>
+		<Citation name="Conduite à contresens" fine="500"/>
+		<Citation name="Défaut de signalisation" fine="300"/>
+		<Citation name="Non-respect de la priorité" fine="300"/>
+		<Citation name="Défaut d'arrêt" fine="300"/>
+		<Citation name="Suivi de trop près" fine="300"/>
+		<Citation name="Changement de voie incorrect" fine="100"/>
+		<Citation name="Dépassement incorrect" fine="150"/>
+		<Citation name="Virage incorrect" fine="250"/>
+		<Citation name="Utilisation d'un vélo sur une autoroute" fine="300"/>
+		<Citation name="Contenant ouvert" fine="400"/>
+		<Citation name="Conduite imprudente" fine="1000" arrestable="true"/>
+		<Citation name="Vélo sans casque" fine="180"/>
+		<Citation name="Passage au feu rouge" fine="500"/>       
+		<Citation name="Violation de la ceinture de sécurité" fine="180"/>
+		<Citation name="Utilisation du téléphone en conduisant" fine="1000"/>
+		<Citation name="Utilisation du téléphone en conduisant" fine="1000"/>
+		<Citation name="Violation de la priorité" fine="150"/>
 	</CitationGroup>
-	<CitationGroup name="Vehicle Equipment">
-		<Citation name="Broken Engine" fine="250"/>
-		<Citation name="Broken Headlight" fine="250"/>
-		<Citation name="Broken Tail Light" fine="250"/>
-		<Citation name="Broken Windshield" fine="500"/>
-		<Citation name="Broken Windows" fine="250"/>
-		<Citation name="Failure to Display License Plates" fine="300"/>
-		<Citation name="Failure to Display Parking Permit" fine="275"/>
-		<Citation name="Failure to Secure a Load" fine="175"/>
-		<Citation name="Illegal Window Tint" fine="180"/>        
-		<Citation name="Lighting Violation" fine="100"/>
-		<Citation name="Neon / Underglow Lighting" fine="450"/>
-		<Citation name="Seat Belt Violation" fine="350"/>
-		<Citation name="Unroadworthy Vehicle" fine="1000"/>		
+	<CitationGroup name="Équipement du véhicule">
+		<Citation name="Moteur défectueux" fine="250"/>
+		<Citation name="Phare défectueux" fine="250"/>
+		<Citation name="Feu arrière défectueux" fine="250"/>
+		<Citation name="Pare-brise cassé" fine="500"/>
+		<Citation name="Vitres cassées" fine="250"/>
+		<Citation name="Absence de plaques d'immatriculation" fine="300"/>
+		<Citation name="Absence de permis de stationnement" fine="275"/>
+		<Citation name="Défaut de fixation de la charge" fine="175"/>
+		<Citation name="Teinte de vitre illégale" fine="180"/>        
+		<Citation name="Violation de l'éclairage" fine="100"/>
+		<Citation name="Éclairage néon / sous-véhicule" fine="450"/>
+		<Citation name="Violation de la ceinture de sécurité" fine="350"/>
+		<Citation name="Véhicule non conforme" fine="1000"/>		
 	</CitationGroup>
-	<CitationGroup name="Document Related">
-		<Citation name="Driving without License" fine="1000"/>
-		<Citation name="Driving without Registration" fine="500"/>
-		<Citation name="Driving without Insurance" fine="1800"/>
-		<Citation name="Expired Vehicle Insurance" fine="250"/>
-		<Citation name="Expired Vehicle Registration" fine="250"/>
-		<Citation name="Expired Drivers License" fine="200"/>
-		<Citation name="Expired Drivers License (>30 days)" fine="300"/>
-		<Citation name="Expired Vehicle Tag" fine="250"/>
-		<Citation name="Failure to Present Insurance" fine="880"/>		
-		<Citation name="Failure to Present Registration" fine="255"/>
-		<Citation name="Failure to Present Lighting Permit" fine="100"/>
-		<Citation name="Fishing Without License" fine="200"/>
-		<Citation name="Fishing With Expired License" fine="100"/>
-		<Citation name="Hunting Without License" fine="200"/>
-		<Citation name="Hunting With Expired License" fine="100"/>
+	<CitationGroup name="Documents">
+		<Citation name="Conduite sans permis" fine="1000"/>
+		<Citation name="Conduite sans plaques immatriculation" fine="500"/>
+		<Citation name="Conduite sans assurance" fine="1800"/>
+		<Citation name="Assurance automobile expirée" fine="250"/>
+		<Citation name="Immatriculation de véhicule expirée" fine="250"/>
+		<Citation name="Permis de conduire expiré" fine="200"/>
+		<Citation name="Permis de conduire expiré (>30 jours)" fine="300"/>
+		<Citation name="Vignette de véhicule expirée" fine="250"/>
+		<Citation name="Absence de présentation d'assurance" fine="880"/>
+		<Citation name="Absence de présentation d'immatriculation" fine="255"/>
+		<Citation name="Absence de permis d'éclairage" fine="100"/>
+		<Citation name="Pêche sans permis" fine="200"/>
+		<Citation name="Pêche avec permis expiré" fine="100"/>
+		<Citation name="Chasse sans permis" fine="200"/>
+		<Citation name="Chasse avec permis expiré" fine="100"/>
 	</CitationGroup>
-	<CitationGroup name="Parking Violations">
-		<Citation name="Blocking Access To Disabled Spot" fine="495"/>
-		<Citation name="Double-Parking" fine="85"/>
-		<Citation name="Parked in Opposite Direction" fine="85"/>
-		<Citation name="Parked on Disabled Spot" fine="495"/>
-		<Citation name="Parking in loading Zone" fine="550"/>
-		<Citation name="Parking in front of Fire Hydrants" fine="150"/>
-		<Citation name="Parking Blocking Excavation" fine="100"/>
-		<Citation name="Parking Blocking a Driveway" fine="100"/>
-		<Citation name="Parking Near Sidewalk Access Ramp" fine="495"/>
-		<Citation name="Parking on No-Parking Zone" fine="750"/>
-		<Citation name="Parking on or Blocking Crosswalk" fine="100"/>
-		<Citation name="Parking Posted Fire Lane" fine="150"/>
-		<Citation name="Parking on Sidewalk" fine="90"/>
+	<CitationGroup name="Infractions de stationnement">
+		<Citation name="Blocage d'un accès réservé aux personnes handicapées" fine="495"/>
+		<Citation name="Double stationnement" fine="85"/>
+		<Citation name="Stationnement en sens inverse" fine="85"/>
+		<Citation name="Stationnement sur une place pour handicapées" fine="495"/>
+		<Citation name="Stationnement dans une zone de chargement" fine="550"/>
+		<Citation name="Stationnement devant une borne d'incendie" fine="150"/>
+		<Citation name="Stationnement bloquant une excavation" fine="100"/>
+		<Citation name="Stationnement bloquant une entrée de garage" fine="100"/>
+		<Citation name="Stationnement près d'une rampe d'accès au trottoir" fine="495"/>
+		<Citation name="Stationnement sur une zone interdite" fine="750"/>
+		<Citation name="Stationnement sur un passage pour piétons" fine="100"/>
+		<Citation name="Stationnement sur une voie d'accès réservée aux pompiers" fine="150"/>
+		<Citation name="Stationnement sur le trottoir" fine="90"/>
 	</CitationGroup>
 </CompuLiteCitations>
