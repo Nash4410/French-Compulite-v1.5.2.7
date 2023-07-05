@@ -55,7 +55,7 @@
 		<Charge name="Possession de marijuana" fine_k="5" probation_chance="30" min_years="1" max_years="5"/>
 		<Charge name="Possession de méthamphétamines" fine_k="5" probation_chance="30" min_years="1" max_years="5"/>
 		<Charge name="Possession de MDMA" fine_k="5" probation_chance="30" min_years="1" max_years="5"/>
-		<Charge name="Possession de PCP" fine_k="5" probation_chance="30" min_years="1" max_years="5"/>
+		<Charge name="Possession de Phéncyclidine" fine_k="5" probation_chance="30" min_years="1" max_years="5"/>
 		<Charge name="Possession de pilules sur ordonnance" fine_k="5" probation_chance="30" min_years="1" max_years="5"/>
 		<Charge name="Possession de stéroïdes" fine_k="5" probation_chance="30" min_years="1" max_years="5"/>
 	</ChargeGroup>
