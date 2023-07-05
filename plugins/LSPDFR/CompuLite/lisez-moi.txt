@@ -1,13 +1,37 @@
-Version: v1.5.2.7
-Traduit par: Nash44
+CompuLite Version: v1.5.2.7
 
-PREREQUIS AVANT INSTALLATION:
+Français:
 
-Compulite: https://www.bejoijo.com/post/compulite
+Traduction française pour le plugin CompuLite. En cas de bugs/erreur de traduction vous pouvez me contacter sur discord: nash44
 
+PRÉREQUIS AVANT INSTALLATION:
+
+CompuLite: https://www.bejoijo.com/post/compulite
 
 INSTALLATION:
 
 Remplacez tout les éléments présents dans le dossier: plugins/LSPDFR/CompuLite après avoir installer le plugin (Charges.xml, Citations.xml et Localization.ini)
 
-Besoin d'aide: nash44 (Discord)
+Crédits:
+
+Traduit par: Nash44
+Script: Bejoljo
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+
+English: 
+
+French translation for the CompuLite plugin. In case of bugs/translation error you can contact me on discord: nash44
+
+REQUIREMENTS BEFORE INSTALLATION:
+
+CompuLite: https://www.bejoijo.com/post/compulite
+
+INSTALLATION:
+
+Replace all the elements present in the folder: plugins/LSPDFR/CompuLite after installing the plugin (Charges.xml, Citations.xml and Localization.ini)
+
+Credits:
+
+Translated by: Nash44
+Script: Bejoljo
