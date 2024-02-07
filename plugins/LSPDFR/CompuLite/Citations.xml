@@ -50,7 +50,6 @@
 		<Citation name="Passage au feu rouge" fine="500"/>       
 		<Citation name="Violation de la ceinture de sécurité" fine="180"/>
 		<Citation name="Utilisation du téléphone en conduisant" fine="1000"/>
-		<Citation name="Utilisation du téléphone en conduisant" fine="1000"/>
 		<Citation name="Violation de la priorité" fine="150"/>
 	</CitationGroup>
 	<CitationGroup name="Équipement du véhicule">
